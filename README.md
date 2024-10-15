@@ -20,4 +20,12 @@
 #1
 ![image](https://github.com/user-attachments/assets/97778063-75f5-4d9e-9a57-523bb2acd7eb)
 #2
+![image](https://github.com/user-attachments/assets/fdb24c6d-23dc-4912-852c-99bc78cf1642)
+#3
+![image](https://github.com/user-attachments/assets/18837c6d-83c8-43d4-943f-c727d6c1b6c5)
+#4
+![image](https://github.com/user-attachments/assets/ca1f09d4-3b67-4582-a74d-12f6415a09e0)
+
+
+
 

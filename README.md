@@ -3,6 +3,7 @@ Emmanuel Soto Mendez
 # Nombre del arduino
 jack frost
 # Explicacion del funcionamiento
+Jack Frost tendra un baston el cual al moverlo encendera unos leds los cuales iluminaran la base simulando movimiento sobre la nieve y sonara una cancion navideña.
 
 # Materiales a utilizar
 | Material | Imagen | Cantidad | Costo |

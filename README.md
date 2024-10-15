@@ -1,4 +1,11 @@
 # R1 Unidad 1 Emmanuel Soto Mendez
+personaje 
+jack frozt
+
+
+
+
+
 
 # examenes c
 #1
@@ -25,6 +32,12 @@
 ![image](https://github.com/user-attachments/assets/18837c6d-83c8-43d4-943f-c727d6c1b6c5)
 #4
 ![image](https://github.com/user-attachments/assets/ca1f09d4-3b67-4582-a74d-12f6415a09e0)
+#final
+![image](https://github.com/user-attachments/assets/a16a6a31-3b9b-4283-8c91-e0955b4ce4ec)
+#feedback
+![image](https://github.com/user-attachments/assets/72acc3e0-ee6b-496f-b00b-f6f96f75fec8)
+
+
 
 
 

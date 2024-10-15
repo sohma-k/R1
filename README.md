@@ -1,8 +1,36 @@
-# R1 Unidad 1 Emmanuel Soto Mendez
+# Autor
+Emmanuel Soto Mendez
 # Nombre del arduino
-jack frozt
+jack frost
+# Explicacion del funcionamiento
 
+# Materiales a utilizar
+| Material | Imagen | Cantidad | Costo |
+|----------|--------|----------|-------|
+| ESP32    | <img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/> | 1 | 120.00 |
+| Servo motor  | <img src="https://m.media-amazon.com/images/I/51ZhuPCUauL._AC_UF894,1000_QL80_.jpg" width="100"/> | 2 | 89.00 |
+|   Altavoz    |     <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2Uex9EaVH0t9VSWeqHC4T4kqgwmRSdmPtPs6Bym2Eh6qONbHuEYl-q0GPq9c_qOwTvFpXFIkd_iKgEQ0s-ocg3K6gz20E-gT0spYL_tjXi6lDQFQtG-QXhw&usqp=CAE" width="100"/>     |     1  |  69     |
+|Bateria AA |<img src="https://euroelectrica.com.mx/wp-content/uploads/2018/12/1500.jpg" width="100"/> | 2 |20|
+|Cableado para conexiones |<img src="https://m.media-amazon.com/images/I/71fdyWUFT8L.jpg" width="100"/> | Varios |40|
+|Alambre de cobre grueso |<img src="https://aymet.com.ar/wp-content/uploads/2023/05/cobre.webp" width="100"/> | 1 m |35|
+|Cutter |<img src="https://www.construactivo.com/5896-large_default/cutter-profesional-alma-metalica-18mm-truper.jpg" width="100"/> | 1  |15|
+|Silicona Caliente |<img src="https://i.pinimg.com/736x/e9/57/cc/e957ccedc373cd614b2b0b99678acb0d.jpg" width="100"/> | 1  |50|
+| Globo |<img src="https://github.com/user-attachments/assets/c21947ac-1ff9-4ad9-aef8-eeffff8a4ff2" width="100"/> | 1  |15|
+| Papel periodico |<img src="https://github.com/user-attachments/assets/44dd9811-6f14-4c4f-86d2-495384c75892" width="100"/> | Varios  |16|
+| Resistol liquido |<img src="https://github.com/user-attachments/assets/e99c357b-66ae-49ed-bc82-c1ec349545ff" width="100"/> | 1  |15|
+| Foami  |<img src="https://github.com/user-attachments/assets/df52a2d3-2861-4342-ae9f-1b4dee3d0d5e" width="100"/> | 1  |105|
+| Pintura |<img src="https://github.com/user-attachments/assets/dfd5b22c-1f65-47c6-9956-393a27cf44af" width="100"/> | 1  |65|
+| Esfera Transparente |<img src="https://github.com/user-attachments/assets/1e6b91e2-c1d6-4747-8fc4-07ce6c67d49e" width="100"/> | 2  |25|
+| LEDS |<img src="https://github.com/user-attachments/assets/43e6d92e-86f7-49b5-8e81-773b60db4e5f" width="100"/> | Varias |15|
 
+# Software a utilizar
+![image](https://github.com/user-attachments/assets/4ae2604e-9cff-43e5-918d-5ffb0e660811)
+
+# Dibujo del personaje
+![image](https://github.com/user-attachments/assets/4f550c03-73ff-4d9d-8b1b-a8f55acc2369)
+
+# Enlaces de la simulacion de wokwi
+# Enlace al video de la simulacion en wokwi
 
 
 # examenes c

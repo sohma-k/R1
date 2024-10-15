@@ -1,4 +1,4 @@
-# R1
+# R1 Unidad 1 Emmanuel Soto Mendez
 
 # examenes c
 #1
@@ -12,3 +12,12 @@
 #5
 ![Imagen de WhatsApp 2024-10-14 a las 23 47 14_5aec04d5](https://github.com/user-attachments/assets/802a6be9-0110-4168-8770-5e541eebf91f)
 #final
+![image](https://github.com/user-attachments/assets/17dd56d5-490e-4b9e-875b-570d29f57088)
+#feedback
+![image](https://github.com/user-attachments/assets/db9fa9dd-741a-4226-bdf3-7fee869d392b)
+
+#examenes phyton
+#1
+![image](https://github.com/user-attachments/assets/97778063-75f5-4d9e-9a57-523bb2acd7eb)
+#2
+

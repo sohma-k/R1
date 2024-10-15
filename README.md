@@ -9,9 +9,9 @@ jack frost
 |----------|--------|----------|-------|
 | ESP32    | <img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/> | 1 | 120.00 |
 | Servo motor  | <img src="https://m.media-amazon.com/images/I/51ZhuPCUauL._AC_UF894,1000_QL80_.jpg" width="100"/> | 2 | 89.00 |
-|   Buzzer    |     <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2Uex9EaVH0t9VSWeqHC4T4kqgwmRSdmPtPs6Bym2Eh6qONbHuEYl-q0GPq9c_qOwTvFpXFIkd_iKgEQ0s-ocg3K6gz20E-gT0spYL_tjXi6lDQFQtG-QXhw&usqp=CAE" width="100"/>     |     1  |  69     |
-|Cableado para conexiones |<img src="https://m.media-amazon.com/images/I/71fdyWUFT8L.jpg" width="100"/> | Varios |40|
-| LEDS |<img src="https://github.com/user-attachments/assets/43e6d92e-86f7-49b5-8e81-773b60db4e5f" width="100"/> | Varias |15|
+|   Buzzer    |     <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2Uex9EaVH0t9VSWeqHC4T4kqgwmRSdmPtPs6Bym2Eh6qONbHuEYl-q0GPq9c_qOwTvFpXFIkd_iKgEQ0s-ocg3K6gz20E-gT0spYL_tjXi6lDQFQtG-QXhw&usqp=CAE" width="100"/>     |1|69.00|
+|Cableado para conexiones |<img src="https://m.media-amazon.com/images/I/71fdyWUFT8L.jpg" width="100"/> | Varios |40.00|
+| LEDS |<img src="https://github.com/user-attachments/assets/43e6d92e-86f7-49b5-8e81-773b60db4e5f" width="100"/> | Varios |15.00|
 
 # Software a utilizar
 ![image](https://github.com/user-attachments/assets/4ae2604e-9cff-43e5-918d-5ffb0e660811)

@@ -7,11 +7,11 @@ jack frost
 # Materiales a utilizar
 | Material | Imagen | Cantidad | Costo |
 |----------|--------|----------|-------|
-| ESP32 | <img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/> | 1 | 120.00 |
-| Servo motor | <img src="https://m.media-amazon.com/images/I/51ZhuPCUauL._AC_UF894,1000_QL80_.jpg" width="100"/> | 2 | 89.00 |
-| Buzzer | <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2Uex9EaVH0t9VSWeqHC4T4kqgwmRSdmPtPs6Bym2Eh6qONbHuEYl-q0GPq9c_qOwTvFpXFIkd_iKgEQ0s-ocg3K6gz20E-gT0spYL_tjXi6lDQFQtG-QXhw&usqp=CAE" width="100"/> |1| 69.00 |
-| Cableado para conexiones |<img src="https://m.media-amazon.com/images/I/71fdyWUFT8L.jpg" width="100"/> | Varios | 40.00 |
-| LEDS |<img src="https://github.com/user-attachments/assets/43e6d92e-86f7-49b5-8e81-773b60db4e5f" width="100"/> | Varios | 15.00 |
+| ESP32 | ![image](https://github.com/user-attachments/assets/2b37f031-5ff1-4c34-98e1-25aabbfb6934) | 1 | 120.00 |
+| Servo motor | ![image](https://github.com/user-attachments/assets/51154eae-a9f1-4ad7-8bc2-523f25656d69) | 2 | 89.00 |
+| Buzzer | ![image](https://github.com/user-attachments/assets/50af34a7-722c-4b56-b1db-1154577d48d8) |1| 69.00 |
+| Cableado para conexiones | ![image](https://github.com/user-attachments/assets/c52b3f2d-95de-4414-9f28-09c8f7a9ab44) | Varios | 40.00 |
+| LEDS | ![image](https://github.com/user-attachments/assets/04c5e2a3-711f-46e4-9e6d-d414327b4758) | Varios | 15.00 |
 
 # Software a utilizar
 ![image](https://github.com/user-attachments/assets/4ae2604e-9cff-43e5-918d-5ffb0e660811)
